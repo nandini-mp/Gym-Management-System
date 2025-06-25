@@ -25,7 +25,7 @@ A gym management system for the management of members, trainers, classes, equipm
 
 ## 🛠 Tech Stack
 
-- PythonStreamlit
+- Python
 - Streamlit
 - mySQL
   
